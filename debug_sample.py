@@ -6,7 +6,7 @@ def main():
     v = 3
     x = 5
     y = 10
-    z = calculate_sum(x,y)
+    z = calculate_sum(x,y,v)
 
     numbers = [1,2,3,4,5,6]
     numbers_squared = [n**2 for n in numbers]
